@@ -1,0 +1,2 @@
+# templates-wg
+Templates Wireguard
